@@ -1,7 +1,7 @@
 ---
 layout: video
-title: Generic
-description: Aliquam ut ex ut interdum donec amet imperdiet eleifen
+title: Das Team
+description: Wer ist eigentlich f&uuml;r das alles verantwortlich?
 ---
 
 ### Lorem ipsum dolor
