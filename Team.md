@@ -15,7 +15,7 @@ Unterstützt von einem großen Serverteam habt ihr eine Vielzahl von Möglichkei
 oder einer Vielzahl von Minispielen und anderen Sachen.  [Weitere Informationen findet ihr in "Name vom Raum"]
 Das Serverteam unterstützt euch gerne bei Server betreffenden Fragen.
 
-Ist das was für dich? Dann komm zu uns. Wir würden uns sehr über dich Freuen ^^
+Ist das was für dich? Dann komm zu uns. Wir würden uns sehr über dich freuen ^^
 
 --------------------------------------------------------------------------------
 
