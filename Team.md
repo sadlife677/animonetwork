@@ -47,7 +47,6 @@ description: Wer ist eigentlich f&uuml;r das alles verantwortlich?
                 Bei Fragen könnt ihr mir gerne schreiben. Ich unterhalte mich auch gerne mit anderen.</p>
             </div>
         </div>
-        <div class="container1">
         <div class="card">
             <div class="box">
                 <img src="assets/images/Meverik.png" alt="Meverik">
