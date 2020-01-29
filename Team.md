@@ -4,19 +4,20 @@ title: Das Team
 description: Wer ist eigentlich f&uuml;r das alles verantwortlich?
 ---
 
-### Lorem ipsum dolor
-
-Wer wir sind?<br><br>
-
-Eine Anime & Gaming basierende Community, mit vielen Feature's die es bei anderen nicht gibt.
-Außerdem haben wir 2000+ Member und einen Aktiven Deutschen Discord Server. 
-Trotz des Namen unseres Server's habt ihr die Möglichkeit, über alle möglichen Themen zu schreiben und zu reden. Dafür haben wir verschiedene Kanäle ^^
-Unterstützt von einem großen Serverteam habt ihr eine Vielzahl von Möglichkeiten, wie das erleichterte Finden von Mitspielern in den verschiedensten Spielen 
-oder einer Vielzahl von Minispielen und anderen Sachen.  [Weitere Informationen findet ihr in "Name vom Raum"]
-Das Serverteam unterstützt euch gerne bei Server betreffenden Fragen.
-
-Ist das was für dich? Dann komm zu uns. Wir würden uns sehr über dich freuen ^^
-
+### Wer ist eigentlich f&uuml;r das alles verantwortich?
+<section class="team">
+    <div class="container1">
+        <div class="card">
+            <div class="box">
+                <img src="assets/images/danny.gif" alt="Dannyx">
+                <h4 class="Header4">Dannyx</h4>
+                <h5 class="Header5"> Owner</h5>
+                <p class="boxparagraph">Hallöchen!</br>
+                Ich bin Danny und bin 20 Jahre Alt.</p>
+            </div>
+        </div>
+    </div>
+</section>
 --------------------------------------------------------------------------------
 
 #### Feugiat aliquam
