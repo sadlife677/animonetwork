@@ -12,8 +12,8 @@ description: Wer ist eigentlich f&uuml;r das alles verantwortlich?
         <a href="#"><img src="assets/images/meverik.png" alt="meveric"></a>
     </div>
     <div class="section" id="p1">
-        <span class="name">DannyX</span>
-        <span class="name">Owner</span>
+        <h3 class="name">DannyX</h3>
+        <h4 class="name">Owner</h4>
         <span class="border"></span>
         <p>Hallöchen!<br>
         Ich bin Danny und bin 20 Jahre alt.</p>
