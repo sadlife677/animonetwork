@@ -7,35 +7,42 @@
 <html>
 {% include head.html %}
 <style>
-    .container1{
-        max-width: 1140px;
+    .team-section{
+        overflow: hidden;
+        text-align: center;
+        padding: 60px;
+    }
+
+    .border{
+        display: block;
         margin: auto;
-        position: relative;
-        min-height: 1px;
+        width: 160px;
+        height: 3px;
+        background-color: #2e3842;
+        margin-bottom: 40px;
     }
 
-    .team{
-        display: block;
-        min-height: 100px;
-        padding: 60px 15px;
+    .ps{
+        margin-bottom: 40px;
     }
 
-    .team .card{
-        width: 25%;
-        float: left;
-        padding: 0px 15px;
-    }
-
-    .team .card .box{
-        padding: 15px;
-        background-color: #dbdbdb;
-    }
-
-    .team .card .box img{
-        width: 150px;
-        display: block;
+    .ps a{
+        display: inline-block;
+        margin: 0 30px;
+        width: 160px;
+        height: 160px;
+        overflow: hidden;
         border-radius: 50%;
-        margin: 10px auto;
+    }
+
+    .ps a img{
+        width: 100%;
+        filter: grayscale(100%);
+        transition: 0.4s all;
+    }
+
+    .ps a:hover > img{
+        filter: none;
     }
 </style>
 
