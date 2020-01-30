@@ -80,7 +80,10 @@
     {% include footer.html %}
     <script>
         function changesize(paragraph){
-            document.getElementsByClassName('section').style.height = "0";
+            var x = document.getElementsByClassName('section');
+            for(i = 0; i < x.length; i++){
+                x[i].style.height = "0";
+            }
             document.getElementById(paragraph).style.height = "auto";
         }
     </script>
