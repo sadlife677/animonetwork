@@ -58,6 +58,6 @@ description: Wer ist eigentlich f&uuml;r das alles verantwortlich?
         <h4 class="name">Ersteller der Website</h4>
         <span class="border"></span>
         <p>Habe jetzt nicht so viel mit dem Server am Hut, denn meine Aufgabe war es die Website hier zu bauen. Trotzdem bin ich immer mal wieder auf dem Server anzutreffen.<br>
-        Wenn ihr wollt, k&ouml;nnt ihr gerne auch mal auf meiner Homepage <a href="www.nikurasu.xyz">nikurasu.xyz</a> oder auf meinem <a href="https://www.youtube.com/channel/UCcwpq3E1Nx-_DDPcBu_c9gg?view_as=subscriber">YouTube Kanal</a> vorbeischauen.</p>
+        Wenn ihr wollt, k&ouml;nnt ihr gerne auch mal auf meiner Homepage <a href="https://www.nikurasu.xyz">nikurasu.xyz</a> oder auf meinem <a href="https://www.youtube.com/channel/UCcwpq3E1Nx-_DDPcBu_c9gg?view_as=subscriber">YouTube Kanal</a> vorbeischauen.</p>
     </div>
 </div>
