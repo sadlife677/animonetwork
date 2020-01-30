@@ -6,7 +6,7 @@ description: Wer ist eigentlich f&uuml;r das alles verantwortlich?
 <div class="team-section">
     <div class="ps">
         <a onclick="changesize('p1')"><img src="assets/images/danny.gif" alt="dannyx"></a>
-        <a onclick="changesize('p2')"><img src="assets/images/kyuubi.png" alt="kyuuby.png"></a>
+        <a onclick="changesize('p2')"><img src="assets/images/kyuuby.png" alt="kyuuby"></a>
         <a onclick="changesize('p3')"><img src="assets/images/nutolf.gif" alt="nutolf"></a>
         <a onclick="changesize('p4')"><img src="assets/images/ayyoub.png" alt="ayyoub"></a>
         <a onclick="changesize('p5')"><img src="assets/images/meverik.png" alt="meveric"></a>
