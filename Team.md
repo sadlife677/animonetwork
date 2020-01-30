@@ -5,12 +5,12 @@ description: Wer ist eigentlich f&uuml;r das alles verantwortlich?
 ---
 <div class="team-section">
     <div class="ps">
-        <a onclick="changesize('p1', 'n1')"><img src="assets/images/danny.gif" alt="dannyx"></a>
-        <a onclick="changesize('p2', 'n2')"><img src="assets/images/kyuuby.png" alt="kyuuby"></a>
-        <a onclick="changesize('p3', 'n3')"><img src="assets/images/nutolf.gif" alt="nutolf"></a>
-        <a onclick="changesize('p4', 'n4')"><img src="assets/images/ayyoub.png" alt="ayyoub"></a>
-        <a onclick="changesize('p5', 'n5')"><img src="assets/images/meverik.png" alt="meveric"></a>
-        <a onclick="changesize('p6', 'n6')"><img src="assets/images/nikurasu.png" alt="meveric"></a>
+        <a onclick="changesize('p1')"><img src="assets/images/danny.gif" alt="dannyx"></a>
+        <a onclick="changesize('p2')"><img src="assets/images/kyuuby.png" alt="kyuuby"></a>
+        <a onclick="changesize('p3')"><img src="assets/images/nutolf.gif" alt="nutolf"></a>
+        <a onclick="changesize('p4')"><img src="assets/images/ayyoub.png" alt="ayyoub"></a>
+        <a onclick="changesize('p5')"><img src="assets/images/meverik.png" alt="meveric"></a>
+        <a id="scrollimg" onclick="changesize('p6')"><img src="assets/images/nikurasu.png" alt="meveric"></a>
     </div>
     <div class="section" id="p1">
         <h3 class="name" id="n1">DannyX</h3>
@@ -40,7 +40,7 @@ description: Wer ist eigentlich f&uuml;r das alles verantwortlich?
     </div>
     <div class="section" id="p4">
         <h3 class="name" id="n4">Ayyoub</h3>
-        <h4 class="name">Modderator</h4>
+        <h4 class="name">Moderator</h4>
         <span class="border"></span>
         <p>Ich bin Ayyoub und 16 Jahre alt.
         Mein Hobby ist Fußball.Ich bin hilfsbereit und grundsätzlich eine freundliche Person.<br>
