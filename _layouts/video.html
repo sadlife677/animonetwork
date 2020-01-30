@@ -78,14 +78,14 @@
     </article>
     {% include footer.html %}
     <script>
-        function changesize(paragraph){
+        function changesize(paragraph, namenr){
             var x = document.getElementsByClassName('section');
             for(i = 0; i < x.length; i++){
                 x[i].style.height = "0";
             }
             document.getElementById(paragraph).style.height = "auto";
             if(document.getElementById("myBody").classList.contains("is-mobile")){
-                document.getElementById('p6').scrollIntoView(true);
+                document.getElementById(namenr).scrollIntoView();
             }
         }
     </script>
