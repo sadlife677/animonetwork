@@ -6,7 +6,7 @@ description: Wer ist eigentlich f&uuml;r das alles verantwortlich?
 <div class="team-section">
     <div class="ps">
         <a onclick="changesize('p1')"><img src="assets/images/danny.gif" alt="dannyx"></a>
-        <a onclick="changesize('p2')"><img src="assets/images/kyuubi.png" alt="kyuubi"></a>
+        <a onclick="changesize('p2')"><img src="assets/images/kyuubi.png" alt="kyuuby"></a>
         <a onclick="changesize('p3')"><img src="assets/images/nutolf.gif" alt="nutolf"></a>
         <a onclick="changesize('p4')"><img src="assets/images/ayyoub.png" alt="ayyoub"></a>
         <a onclick="changesize('p5')"><img src="assets/images/meverik.png" alt="meveric"></a>
@@ -20,7 +20,7 @@ description: Wer ist eigentlich f&uuml;r das alles verantwortlich?
         Ich bin Danny und bin 20 Jahre alt.</p>
     </div>
      <div class="section" id="p2">
-        <h3 class="name">Kyuubi</h3>
+        <h3 class="name">Kyuuby</h3>
         <h4 class="name">Co-Owner</h4>
         <span class="border"></span>
         <p>Also Ich bin Kyuuby, der Co. Owner vom Anime Server Phönixbaum und die ein oder anderen kennen mich schon vielleicht.<br>

@@ -56,7 +56,7 @@
     }
 </style>
 
-<body style="background: white; height: auto;">
+<body id="myBody" style="background: white; height: auto;">
     {% include header.html %}
 
     <article id="main">
@@ -84,6 +84,9 @@
                 x[i].style.height = "0";
             }
             document.getElementById(paragraph).style.height = "auto";
+            if(document.getElementById("myBody").classList.contains("is-mobile")){
+                document.getElementById(paragraph).scrollIntoView();
+            }
         }
     </script>
 </body>
