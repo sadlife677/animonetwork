@@ -5,10 +5,10 @@ description: Wer ist eigentlich f&uuml;r das alles verantwortlich?
 ---
 <div class="team-section">
     <div class="ps">
-        <a href="#p1"><img src="assets/images/danny.gif" alt="dannyx"></a>
-        <a href="#p2"><img src="assets/images/kyuubi.png" alt="kyuubi"></a>
-        <a href="#p3"><img src="assets/images/nutolf.gif" alt="nutolf"></a>
-        <a href="#p4"><img src="assets/images/ayyoub.png" alt="ayyoub"></a>
+        <a onclick="changesize('p1')"><img src="assets/images/danny.gif" alt="dannyx"></a>
+        <a onclick="changesize('p2')"><img src="assets/images/kyuubi.png" alt="kyuubi"></a>
+        <a onclick="changesize('p3')"><img src="assets/images/nutolf.gif" alt="nutolf"></a>
+        <a onclick="changesize('p4')"><img src="assets/images/ayyoub.png" alt="ayyoub"></a>
         <a onclick="changesize('p5')"><img src="assets/images/meverik.png" alt="meveric"></a>
     </div>
     <div class="section" id="p1">
