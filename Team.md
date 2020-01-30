@@ -10,6 +10,7 @@ description: Wer ist eigentlich f&uuml;r das alles verantwortlich?
         <a onclick="changesize('p3')"><img src="assets/images/nutolf.gif" alt="nutolf"></a>
         <a onclick="changesize('p4')"><img src="assets/images/ayyoub.png" alt="ayyoub"></a>
         <a onclick="changesize('p5')"><img src="assets/images/meverik.png" alt="meveric"></a>
+        <a onclick="changesize('p6')"><img src="assets/images/nikurasu.png" alt="meveric"></a>
     </div>
     <div class="section" id="p1">
         <h3 class="name">DannyX</h3>
@@ -51,5 +52,12 @@ description: Wer ist eigentlich f&uuml;r das alles verantwortlich?
         <span class="border"></span>
         <p>Hey ich bin Max! Ich komme aus einer kleinen Stadt in Österreich.<br>
         Ich bin Moderator auf dem Server "Phönixbaum". Wir freuen uns immer sehr auf neue aktive user, und jeder ist willkommen!</p>
+    </div>
+    <div class="section" id="p6">
+        <h3 class="name">Nikurasu</h3>
+        <h4 class="name">Ersteller der Website</h4>
+        <span class="border"></span>
+        <p>Habe jetzt nicht so viel mit dem Server am Hut, denn meine Aufgabe war es die Website hier zu bauen. Trotzdem bin ich immer mal wieder auf dem Server anzutreffen.<br>
+        Wenn ihr wollt, k&ouml;nnt ihr gerne auch mal auf meiner Homepage <li href="www.nikurasu.xyz">nikurasu.xyz</li> oder auf meinem <li href="https://www.youtube.com/channel/UCcwpq3E1Nx-_DDPcBu_c9gg?view_as=subscriber">YouTube Kanal</li> vorbeischauen.</p>
     </div>
 </div>
