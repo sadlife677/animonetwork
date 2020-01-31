@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: hidden
 title: Elements
 description: Aliquam ut ex ut interdum donec amet imperdiet eleifend
 ---
