@@ -85,7 +85,7 @@
             }
             document.getElementById(paragraph).style.height = "auto";
             if(document.getElementById("myBody").classList.contains("is-mobile")){
-                document.getElementById('scrollimg').scrollIntoView();
+                document.getElementById('scrollimg').scrollIntoView({behavior: 'smooth'});
             }
         }
     </script>
