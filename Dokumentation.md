@@ -14,10 +14,10 @@ description: Was kann man alles auf dem Server machen?
 </ol>
 <h2 class="table of contents">Kanal-&Uuml;bersicht</h2>
 Hier mal eine &Uuml;bersicht &uuml;ber die Kan&auml;le auf dem Server.
-<div class="mainpart">&Uuml;ber uns</div>
-<div class="childpart about">Hall of fame</div>
-<div class="childpart about">Serverteam</div>
-<div class="childpart about">Invite System</div>
-<div class="childpart about">Serverrollen</div>
-<div class="childpart about">Server-Boost</div>
-<div class="childpart about">Partner</div>
+<div class="mainpart dropdowntable">&Uuml;ber uns</div>
+<div class="childpart about dropdowntable">Hall of fame</div>
+<div class="childpart about dropdowntable">Serverteam</div>
+<div class="childpart about dropdowntable">Invite System</div>
+<div class="childpart about dropdowntable">Serverrollen</div>
+<div class="childpart about dropdowntable">Server-Boost</div>
+<div class="childpart about dropdowntable">Partner</div>
