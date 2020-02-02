@@ -10,5 +10,7 @@ description: Was kann man alles auf dem Server machen?
     <li>Reife Gespräche und gegenseitiger Respekt sind vorausgesetzt. Hassreden und Beleidigungen jeglicher Art werden nicht toleriert.</li>
     <li>Spam und aggressives Verhalten werden nicht geduldet.</li>
     <li>Werbung jeglicher Art ist verboten. Begrenzte Ausnahmen gelten mit deutlicher Erlaubnis eines Führungsmitgliedes.</li>
-    <li>Handel untereinander ist auf diesem Server streng verboten.<li>
+    <li>Handel untereinander ist auf diesem Server streng verboten.</li>
 </ol>
+<h2 class="table of contents">Kanal-&Uuml;bersicht</h2>
+Hier mal eine &Uuml;bersicht &uuml;ber die Kan&auml;le auf dem Server.
