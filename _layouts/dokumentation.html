@@ -8,6 +8,7 @@
 {% include head.html %}
 <style>
     div.accordion{
+        height: 100px;
         background-color: #2e3842;
         cursor: pointer;
         border: none;
@@ -25,8 +26,22 @@
         background-color: #222a31;
     }
 
+    #firstacc{
+        border-top-right-radius: 5px;
+        border-top-left-radius: 5px;
+    }
+
+    #lastacc{
+        border-bottom-right-radius: 5px;
+        border-bottom-left-radius: 5px;
+    }
+
+    #lastacc.active{
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+    }
+
     div.panel {
-        padding: 0 18px;
         max-height: 0;
         overflow: hidden;
         width: 100%;

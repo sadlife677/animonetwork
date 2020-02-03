@@ -14,7 +14,7 @@ description: Was kann man alles auf dem Server machen?
 </ol>
 <h2 class="table of contents">Kanal-&Uuml;bersicht</h2>
 Hier mal eine &Uuml;bersicht &uuml;ber die Kan&auml;le auf dem Server.
-<div class="accordion">Section1</div>
+<div class="accordion"id="firstacc">Section1</div>
 <div class="panel">
     <p>Lorem Ipsum</p>
 </div>
@@ -22,7 +22,7 @@ Hier mal eine &Uuml;bersicht &uuml;ber die Kan&auml;le auf dem Server.
 <div class="panel">
     <p>Lorem Ipsum</p>
 </div>
-<div class="accordion">Section3</div>
+<div class="accordion" id="lastacc">Section3</div>
 <div class="panel">
     <p>Lorem Ipsum</p>
 </div>
