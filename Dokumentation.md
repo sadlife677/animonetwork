@@ -14,15 +14,15 @@ description: Was kann man alles auf dem Server machen?
 </ol>
 <h2 class="table of contents">Kanal-&Uuml;bersicht</h2>
 Hier mal eine &Uuml;bersicht &uuml;ber die Kan&auml;le auf dem Server.
-<button class="accordion" type="button">Section1</button>
+<div class="accordion">Section1</div>
 <div class="panel">
     <p>Lorem Ipsum</p>
 </div>
-<button class="accordion" type="button">Section2</button>
+<div class="accordion">Section2</div>
 <div class="panel">
     <p>Lorem Ipsum</p>
 </div>
-<button class="accordion" type="button">Section3</button>
+<div class="accordion">Section3</div>
 <div class="panel">
     <p>Lorem Ipsum</p>
 </div>
