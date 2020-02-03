@@ -7,24 +7,30 @@
 <html>
 {% include head.html %}
 <style>
-    .dropdowntable{
+    button.accordion{
+        background-color: #2e3842;
+        cursor: pointer;
+        border: 0px;
+        padding: 18px;
         width: 100%;
-        height: 50px;
         text-align: left;
-        line-height: 50px;
+        transition: 4s;
     }
 
-    #aboutpart{
-        border-top-left-radius: 10px;
-        border-top-right-radius: 10px;
+    button.accordion:focus{
+        outline: none;
     }
 
-    .mainpart{
-        background-color: #21b2a6;
+    button.accordion.active, button.accordion:hover{
+        background-color: #222a31;
     }
 
-    .childpart{
-        background-color: white;
+    div.panel {
+        padding: 0 18px;
+        max-height: 0;
+        overflow: hidden;
+        width: 100%;
+        transition: max-height .2s ease-out;
     }
 </style>
 <body>
@@ -47,9 +53,20 @@
 
     {% include footer.html %}
     <script>
-        
-    </script>
+        var acc = document.getElementsByClassName("accordion");
 
+        for(var i = 0; acc.length; i++){
+            acc[i].onclick = function(){
+                this.classList.toggle("active");
+                var panel = this.nextElementSibling;
+                if(panel.style.maxHeight){
+                    panel.style.maxHeight = null;
+                } else {
+                    panel.style.maxHeight = panel.scrollHeight + "px";
+                }
+            }
+        }
+    </script>
 </body>
 
 </html>
