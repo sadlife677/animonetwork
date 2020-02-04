@@ -18,7 +18,7 @@ Hier mal eine &Uuml;bersicht &uuml;ber die Kan&auml;le auf dem Server.
 <div class="panel">
     <p>Lorem Ipsum</p>
 </div>
-<div class="accordion">Section2<i class="fa fa-chevron-down" aria-hidden="true"></i>/div>
+<div class="accordion">Section2<i class="fa fa-chevron-down" aria-hidden="true"></i></div>
 <div class="panel">
     <p>Lorem Ipsum</p>
 </div>
