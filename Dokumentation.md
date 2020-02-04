@@ -64,7 +64,7 @@ Hier mal eine &Uuml;bersicht &uuml;ber die Kan&auml;le auf dem Server.
 <div class="accordion">Feedback & Bump<i class="fa fa-chevron-down" aria-hidden="true"></i></div>
 <div class="panel">
     <p><i class="fa fa-hashtag" aria-hidden="true"></i>Bump</p>
-    <p><i class="fa fa-hashtag" aria-hidden="true">Feedback</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Feedback</p>
 </div>
 <div class="accordion">Sprachkan&auml;le<i class="fa fa-chevron-down" aria-hidden="true"></i></div>
 <div class="panel">
