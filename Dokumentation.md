@@ -16,16 +16,54 @@ description: Was kann man alles auf dem Server machen?
 Hier mal eine &Uuml;bersicht &uuml;ber die Kan&auml;le auf dem Server.
 <div class="accordion" id="firstacc">&Uuml;ber uns<i class="fa fa-chevron-down" aria-hidden="true"></i></div>
 <div class="panel">
-    <p>Hall of Fame</p>
-    <p>Serverteam</p>
-    <p>Invite-System</p>
-    <p>Serverrollen</p>
-    <p>Server-Boot</p>
-    <p>Partner</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Hall of Fame</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Serverteam</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Invite-System</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Serverrollen</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Server-Boot</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Partner</p>
+</div>
+<div class="accordion">Server Information<i class="fa fa-chevron-down" aria-hidden="true"></i></div>
+<div class="panel">
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Regeln</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Rollenverteilung</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Info</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Animo Events</p>
+</div>
+<div class="accordion">LOL Turnier<i class="fa fa-chevron-down" aria-hidden="true"></i></div>
+<div class="panel">
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Matches</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>animagic-2020</p>
+</div>
+<div class="accordion">Main  Chats<i class="fa fa-chevron-down" aria-hidden="true"></i></div>
+<div class="panel">
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Main Chat</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Anime Talk</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Meme Channel</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Vorsch&auml;ge</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Vorstellungen</p>    
+</div>
+<div class="accordion">Weebs|Media<i class="fa fa-chevron-down" aria-hidden="true"></i></div>
+<div class="panel">
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Art</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Selfie</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Bilder Videos</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Musik</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>YouTube Promo</p>
+</div>
+<div class="accordion">Bots/Arcade<i class="fa fa-chevron-down" aria-hidden="true"></i></div>
+<div class="panel">
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Spiele Info</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Bot-Commands</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Blackjack</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Mudamaid Bot</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Pokemon Bot</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Zahlenspiel</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Sonstiges</p>
 </div>
 <div class="accordion">Section2<i class="fa fa-chevron-down" aria-hidden="true"></i></div>
 <div class="panel">
-    <p>Lorem Ipsum</p>
+    <p><i class="fa fa-hashtag" aria-hidden="true"></i>Lorem Ipsum</p>
 </div>
 <div class="accordion" id="lastacc">Section3<i class="fa fa-chevron-down" aria-hidden="true"></i></div>
 <div class="panel">
