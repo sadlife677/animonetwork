@@ -75,14 +75,10 @@ Hier mal eine &Uuml;bersicht &uuml;ber die Kan&auml;le auf dem Server.
     <p><i class="fa fa-volume-up" aria-hidden="true"></i>Eigen Kanal</p>
     <p><i class="fa fa-volume-up" aria-hidden="true"></i>Nicht Anwesend</p>
 </div>
-<div class="accordion">Server Support<i class="fa fa-chevron-down" aria-hidden="true"></i></div>
+<div class="accordion" id="lastacc">Server Support<i class="fa fa-chevron-down" aria-hidden="true"></i></div>
 <div class="panel">
     <p><i class="fa fa-hashtag" aria-hidden="true"></i>Hilfe</p>
     <p><i class="fa fa-volume-up" aria-hidden="true"></i>Warten f&uuml;r Support</p>
     <p><i class="fa fa-volume-up" aria-hidden="true"></i>Support .1</p>
     <p><i class="fa fa-volume-up" aria-hidden="true"></i>Support .2</p>
-</div>
-<div class="accordion" id="lastacc">Section3<i class="fa fa-chevron-down" aria-hidden="true"></i></div>
-<div class="panel">
-    <p>Lorem Ipsum</p>
 </div>
