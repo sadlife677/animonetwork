@@ -14,9 +14,14 @@ description: Was kann man alles auf dem Server machen?
 </ol>
 <h2 class="table of contents">Kanal-&Uuml;bersicht</h2>
 Hier mal eine &Uuml;bersicht &uuml;ber die Kan&auml;le auf dem Server.
-<div class="accordion" id="firstacc">Section1<i class="fa fa-chevron-down" aria-hidden="true"></i></div>
+<div class="accordion" id="firstacc">&Uuml;ber uns<i class="fa fa-chevron-down" aria-hidden="true"></i></div>
 <div class="panel">
-    <p>Lorem Ipsum</p>
+    <p>Hall of Fame</p>
+    <p>Serverteam</p>
+    <p>Invite-System</p>
+    <p>Serverrollen</p>
+    <p>Server-Boot</p>
+    <p>Partner</p>
 </div>
 <div class="accordion">Section2<i class="fa fa-chevron-down" aria-hidden="true"></i></div>
 <div class="panel">
