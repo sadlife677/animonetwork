@@ -14,7 +14,7 @@
         border: none;
         width: 100%;
         float: left;
-        transition: .4s;
+        transition: 1s;
         color: white;
         line-height: 50px;
         padding-left: 15px;
@@ -82,7 +82,7 @@
 
         for(var i = 0; acc.length; i++){
             acc[i].onclick = function(){
-                this.classList.toggle("active");
+                acc[i].classList.toggle("active");
                 var panel = this.nextElementSibling;
                 if(panel.style.maxHeight){
                     panel.style.maxHeight = null;
