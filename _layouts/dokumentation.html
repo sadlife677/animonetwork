@@ -13,7 +13,7 @@
         cursor: pointer;
         border: none;
         width: 100%;
-        text-align: left;
+        float: left;
         transition: .4s;
         color: white;
         line-height: 50px;
@@ -44,11 +44,16 @@
     }
 
     div.panel {
+        clear: both;
         max-height: 0;
         overflow: hidden;
         width: 100%;
         transition: max-height .2s ease-out;
         padding-left: 20px;
+    }
+
+    .accordion i{
+        float: right;
     }
 </style>
 <body>
