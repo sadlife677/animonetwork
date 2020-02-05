@@ -83,7 +83,7 @@ Hier mal eine &Uuml;bersicht &uuml;ber die Kan&auml;le auf dem Server.
     <p><i class="fa fa-volume-up" aria-hidden="true"></i>Support .2</p>
 </div>
 
-## Kleines Einstiegstutorial
+<h2 class="tableOfContents">Kleines Einstiegstutorial</h2>
 
 So, dieser Abschnitt soll als kleine Hilfe dienen, die alles zeigt, was man machen kann, sobald man dem Server beigetreten ist.<br>
 Wie auch auf vielen anderen Servern schickt euch ein Bot, bei uns der Koya-Bot, eine Willkommensnachricht
