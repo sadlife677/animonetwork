@@ -90,3 +90,4 @@ Wie auch auf vielen anderen Servern schickt euch ein Bot, bei uns der Koya-Bot, 
 <img src="assets/images/KoyaWelcome.png" alt="Willkommensnachricht"><br>
 Wie auch in der Nachricht steht, gibt es in unserem Server in dem Kanal Rollenverteilung verschiedene Rollen, die man sich selbst durch einfaches Reagieren auf Nachrichten selbst geben kann. Hier ist von Alter bis zum Entscheiden, ob man Privatnachrichten von anderen Servermitgliedern erhalten will alles dabei, wenn ihr jedoch trotzdem noch Vorschl&auml;ge habt, schickt die einfach in den Vorsch&auml;ge Kanal.
 <img src="assets/images/LawlietRoles.png" alt="SelfRoles"><br>
+Desweiteren hat der Server natürlich noch ein Level-System. Wenn ihr euer momentanes Level
