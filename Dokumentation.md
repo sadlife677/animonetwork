@@ -91,10 +91,25 @@ Wie auch auf vielen anderen Servern schickt euch ein Bot, bei uns der Koya-Bot, 
 Wie auch in der Nachricht steht, gibt es in unserem Server in dem Kanal Rollenverteilung verschiedene Rollen, die man sich selbst durch einfaches Reagieren auf Nachrichten selbst geben kann. Hier ist von Alter bis zum Entscheiden, ob man Privatnachrichten von anderen Servermitgliedern erhalten will alles dabei, wenn ihr jedoch trotzdem noch Vorschl&auml;ge habt, schickt die einfach in den Vorsch&auml;ge Kanal.
 <img src="assets/images/LawlietRoles.png" alt="SelfRoles"><br>
 Desweiteren hat der Server natürlich noch ein Level-System. Wenn ihr euer momentanes Level erfahren wollt gebt ihr einfach "!rank" in einen der daf&uuml;r vorgesehenen Chats, also "Bot Commands" oder "Sonstiges" unter dem Reiter "Bots/Arcade", ein.
-<img src="assets\images\card.png" alt="Rangkarte"><br>
+<img style="width: 33%;" src="assets\images\card.png" alt="Rangkarte"><br>
 Eure Rangkarte sieht nat&uuml;rlich anders aus, da euer Profilbild und euer aktueller Rang angezeigt wird. Aber wie steigt man eigentlich im Rang auf? Im gro&szlig;en und ganzen, in dem ihr einfach aktiv auf dem Server seid und viele Nachrichten schreibt. Genauer gesagt, bekommt ihr für jede Nachricht zwischen 15 und 25 XP. Um Spam zu verhindern könnt ihr in einer Minute jedoch nur ein mal XP bekommen, also bingt es nchts wenn ihr eure Nachrricht in viele kleine Nachrichten aufspaltet oder den Server vollspammt.<br>
 Desweiteren bekommt ihr alle 5 Level eine neue Rolle, die euren Levelbereich anzeigt: Ab Level 5 erhaltet ihr die Rolle Level 5, ab Level 10 die Rolle Level 10, usw. <br>
 Das Leaderboard mit allen Membern des Servers könnt ihr mit "!levels" anzeigen lassen. Aber wenn ihr schon mal hier seid, könnt ihr auch ganz einfach auf <a href="https://mee6.xyz/leaderboard/466606232183242752"> den Link</a> hier klicken, der führt euch genauso zur Rangliste.
 
 <h2 class="tableOfContents">Lawliet-Bot</h2>
-Neben mee6 ist auch Lawliet ein viel verwendeteder Bot im Animo-Network. Mit diesem Bot k&uuml;nnt ihr Fische sammeln, Server- oder Userinformationen anzeigen lassen und noch viele weitere coole Sachen machen. Eine vollst&auml;ndige Erklärung des Bots könnt ihr auf der <a href="https://lawliet.xyz"> Homepage von Lawliet<a/> finden. Die wichtigsten Commands und Funktionen werde ich aber auch hier erklären.
+Neben mee6 ist auch Lawliet ein viel verwendeteder Bot im Animo-Network. Mit diesem Bot k&uuml;nnt ihr Fische sammeln, Server- oder Userinformationen anzeigen lassen und noch viele weitere coole Sachen machen. Eine vollst&auml;ndige Erklärung des Bots könnt ihr auf der <a href="https://lawlietbot.xyz"> Homepage von Lawliet</a> finden. Die wichtigsten Commands und Funktionen werde ich aber auch hier erklären.
+<h3>Fischen</h3>
+<table>
+    <tr>
+        <th>Befehl</th>
+        <th>Erkl&auml;rung</th>
+    </tr>
+    <tr>
+        <td>l.dialy</td>
+        <td>Damit holst du dir deine t&auml;glichen Fische ab. Du kannst diesen Befehl <b>nur einmal</b> pro Tag benutzen. Wenn du mehrere Tage hintereinander die Fische abholst, bekommst du mehr</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
