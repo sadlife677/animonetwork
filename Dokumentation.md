@@ -87,7 +87,7 @@ Hier mal eine &Uuml;bersicht &uuml;ber die Kan&auml;le auf dem Server.
 
 So, dieser Abschnitt soll als kleine Hilfe dienen, die alles zeigt, was man machen kann, sobald man dem Server beigetreten ist.<br>
 Wie auch auf vielen anderen Servern schickt euch ein Bot, bei uns der Koya-Bot, eine Willkommensnachricht.
-<img style="width: 100;" src="assets/images/KoyaWelcome.png" alt="Willkommensnachricht"><br>
+<img style="width: 100%;" src="assets/images/KoyaWelcome.png" alt="Willkommensnachricht"><br>
 Wie auch in der Nachricht steht, gibt es in unserem Server in dem Kanal Rollenverteilung verschiedene Rollen, die man sich selbst durch einfaches Reagieren auf Nachrichten selbst geben kann. Hier ist von Alter bis zum Entscheiden, ob man Privatnachrichten von anderen Servermitgliedern erhalten will alles dabei, wenn ihr jedoch trotzdem noch Vorschl&auml;ge habt, schickt die einfach in den Vorsch&auml;ge Kanal.
 <img style="width: 100%;" src="assets/images/LawlietRoles.png" alt="SelfRoles"><br>
 Desweiteren hat der Server natürlich noch ein Level-System. Wenn ihr euer momentanes Level erfahren wollt gebt ihr einfach "!rank" in einen der daf&uuml;r vorgesehenen Chats, also "Bot Commands" oder "Sonstiges" unter dem Reiter "Bots/Arcade", ein.<br>
