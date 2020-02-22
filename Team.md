@@ -3,6 +3,7 @@ layout: video
 title: Das Team
 description: Wer ist eigentlich f&uuml;r das alles verantwortlich?
 ---
+F&uuml;r mehr Infos auf ein Bild klicken!
 <div class="team-section">
     <div class="ps">
         <a onclick="changesize('p1')"><img src="assets/images/danny.gif" alt="dannyx"></a>
