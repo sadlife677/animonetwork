@@ -99,7 +99,6 @@ Das Leaderboard mit allen Membern des Servers könnt ihr mit "!levels" anzeigen 
 <h2 class="tableOfContents">Lawliet-Bot</h2>
 Neben mee6 ist auch Lawliet ein viel verwendeteder Bot im Animo-Network. Mit diesem Bot k&uuml;nnt ihr Fische sammeln, Server- oder Userinformationen anzeigen lassen und noch viele weitere coole Sachen machen. Eine vollst&auml;ndige Erklärung des Bots könnt ihr auf der <a href="https://lawlietbot.xyz"> Homepage von Lawliet</a> finden. Die wichtigsten Commands und Funktionen werde ich aber auch hier erklären.
 <h3>Fischen</h3>
-Hallo
 <table>
     <tr>
         <th>Befehl</th>
