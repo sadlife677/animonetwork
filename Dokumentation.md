@@ -131,7 +131,7 @@ Neben mee6 ist auch Lawliet ein viel verwendeteder Bot im Animo-Network. Mit die
     <tr>
         <td>l.acc</td>
         <td>Zeigt deinen Account</td>
-    </tr>^
+    </tr>
     <tr>
         <td>l.give</td>
         <td>Gib Coins an andere User</td>
