@@ -150,6 +150,22 @@ Benutzt diese Commands im Mudamaid-Bot Kanal.
     </tr>
     <tr>
         <td>$w</td>
-        <td>Zuf&auml;llige Waifu. Reagiere innerhalb von 30 Sekunden mit \xE2 auf die Nachricht um sie in deinen Harem aufzunehmen.</td>
+        <td>Zuf&auml;llige Waifu. Reagiere innerhalb von 30 Sekunden mit <i class="fa fa-heart" aria-hidden="true"></i> auf die Nachricht um sie in deinen Harem aufzunehmen. Mit g am Ende ($wg) wechselst du auf die Kategorie Gaming-Charakter, mit b ($wb) Anime, Manga und Gaming.</td>
+    </tr>
+    <tr>
+        <td>$h</td>
+        <td>Zuf&auml;lliger Husbando. Reagiere innerhalb von 30 Sekunden mit <i class="fa fa-heart" aria-hidden="true"></i> auf die Nachricht um ihn in deinen Harem aufzunehmen. Mit g am Ende ($hg) wechselst du auf die Kategorie Gaming-Charakter, mit b ($hb) Anime, Manga und Gaming.</td>
+    </tr>
+    <tr>
+        <td>$w</td>
+        <td>Zuf&auml;llige Waifu oder Husbando. Reagiere innerhalb von 30 Sekunden mit <i class="fa fa-heart" aria-hidden="true"></i> auf die Nachricht um sie bzw. ihn in deinen Harem aufzunehmen. Mit g am Ende ($wg) wechselst du auf die Kategorie Gaming-Charakter, mit b ($wb) Anime, Manga und Gaming.</td>
+    </tr>
+    <tr>
+        <td>$mm</td>
+        <td>Zeigt deinen Harem</td>
+    </tr>
+    <tr>
+        <td>$fm <i>z.b. Yui Hirasawa</i></td>
+        <td>&Auml;ndert deine Lieblingswaifu</td>
     </tr>
 </table>
