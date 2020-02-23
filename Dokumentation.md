@@ -140,7 +140,7 @@ Neben mee6 ist auch Lawliet ein viel verwendeteder Bot im Animo-Network. Mit die
 Desweiteren bietet Lawliet noch einzelne Voice-Chats f&uuml;r jeden einzelnen User. Betrete einfach den Eigen Kanal Voice-Chat und Lawliet erstellt für dich einen neuen Kanal mit deinem Namen und verschiebt dich automatisch.
 
 <h2 class="tableOfContents">Mudaue (bzw. Mudamaid 38)</h2>
-Mit diesem Bot k&ouml;nnt ihr Waifus und Pokemon hunten. Wir haben f&uuml;r jeden Waifus und Pokemon je einen eigenen Channel, also nutzt die bitte auch.
+Mit diesem Bot k&ouml;nnt ihr Waifus und Pokemon hunten. Wir haben f&uuml;r jeden Waifus und Pokemon je einen eigenen Channel, also nutzt die bitte auch. Hier sind mal die wichtigsten Commands. Alle k&ouml;nnt ihr mit $help aufrufen.
 <h3>Waifus</h3>
 Benutzt diese Commands im Mudamaid-Bot Kanal.
 <table>
@@ -165,7 +165,31 @@ Benutzt diese Commands im Mudamaid-Bot Kanal.
         <td>Zeigt deinen Harem</td>
     </tr>
     <tr>
-        <td>$fm <i>&lt; z.B. Yui Hirasawa&gt;</i></td>
+        <td>$fm <i>&lt;z.B. Yui Hirasawa&gt;</i></td>
         <td>&Auml;ndert deine Lieblingswaifu</td>
+    </tr>
+    <tr>
+        <td>$give <i>&lt;@User&gt; &lt;Charakter&gt;</i></td>
+        <td>Gibt dem User den erw&auml;hnten Charakter</td>
+    </tr>
+</table>
+<h3>Pokemon</h3>
+Benutzt diese Commands im Pokemon-Channel.
+<table>
+    <tr>
+        <th>Befehl</th>
+        <th>Erkl&auml;rung</th>
+    </tr>
+    <tr>
+        <td>$p</td>
+        <td>Startet die Pokemon-Slotmaschine</td>
+    </tr>
+    <tr>
+        <td>$pd</td>
+        <td>Zeigt deine Pokemon an</td>
+    </tr>
+    <tr>
+        <td>$release <i>&lt;Pokemon1&gt; &lt;Pokemon2&gt;</i></td>
+        <td>L&auml;sst die angegebenen Pokemon für einen weiteren Versuch in der Slotmaschine frei.</td>
     </tr>
 </table>
