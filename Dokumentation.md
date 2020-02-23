@@ -165,7 +165,7 @@ Benutzt diese Commands im Mudamaid-Bot Kanal.
         <td>Zeigt deinen Harem</td>
     </tr>
     <tr>
-        <td>$fm <i>z.b. Yui Hirasawa</i></td>
+        <td>$fm <i>&lt; z.B. Yui Hirasawa&gt;</i></td>
         <td>&Auml;ndert deine Lieblingswaifu</td>
     </tr>
 </table>
