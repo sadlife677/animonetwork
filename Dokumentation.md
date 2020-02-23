@@ -109,7 +109,32 @@ Neben mee6 ist auch Lawliet ein viel verwendeteder Bot im Animo-Network. Mit die
         <td>Damit holst du dir deine t&auml;glichen Fische ab. Du kannst diesen Befehl <b>nur einmal</b> pro Tag benutzen. Wenn du mehrere Tage hintereinander die Fische abholst, bekommst du mehr</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>l.sell</td>
+        <td>Verkaufe deine Fische für Coins</td>
+    </tr>
+    <tr>
+        <td>l.exch</td>
+        <td>Zeigt den aktuellen Wechselkurs für Fische und Coins an</td>
+    </tr>
+    <tr>
+        <td>l.buy</td>
+        <td>Kaufe mit deinen Coins Zeugs</td>
+    </tr>
+    <tr>
+        <td>l.gear</td>
+        <td>Zeigt deine Angelaustr&uuml;stung</td>
+    </tr>
+    <tr>
+        <td>l.top</td>
+        <td>Zeigt die Rangliste</td>
+    </tr>
+    <tr>
+        <td>l.acc</td>
+        <td>Zeigt deinen Account</td>
+    </tr>^
+    <tr>
+        <td>l.give</td>
+        <td>Gib Coins an andere User</td>
     </tr>
 </table>
+Desweiteren bietet Lawliet noch einzelne Voice-Chats f&uuml;r jeden einzelnen User. Betrete einfach den Eigen Kanal Voice-Chat und Lawliet erstellt für dich einen neuen Kanal mit deinem Namen und verschiebt dich automatisch.
