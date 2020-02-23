@@ -138,3 +138,18 @@ Neben mee6 ist auch Lawliet ein viel verwendeteder Bot im Animo-Network. Mit die
     </tr>
 </table>
 Desweiteren bietet Lawliet noch einzelne Voice-Chats f&uuml;r jeden einzelnen User. Betrete einfach den Eigen Kanal Voice-Chat und Lawliet erstellt für dich einen neuen Kanal mit deinem Namen und verschiebt dich automatisch.
+
+<h2 class="tableOfContents">Mudaue (bzw. Mudamaid 38)</h2>
+Mit diesem Bot k&ouml;nnt ihr Waifus und Pokemon hunten. Wir haben f&uuml;r jeden Waifus und Pokemon je einen eigenen Channel, also nutzt die bitte auch.
+<h3>Waifus</h3>
+Benutzt diese Commands im Mudamaid-Bot Kanal.
+<table>
+    <tr>
+        <th>Befehl</th>
+        <th>Erkl&auml;rung</th>
+    </tr>
+    <tr>
+        <td>$w</td>
+        <td>Zuf&auml;llige Waifu. Reagiere innerhalb von 30 Sekunden mit \xE2 auf die Nachricht um sie in deinen Harem aufzunehmen.</td>
+    </tr>
+</table>
